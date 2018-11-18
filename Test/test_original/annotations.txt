@@ -1,0 +1,9 @@
+Test\test_original\000.jpg 1 476 382 331 291
+Test\test_original\001.jpg 1 10 25 979 700
+Test\test_original\003.jpg 1 69 73 641 343
+Test\test_original\004.jpg 1 190 53 634 632
+Test\test_original\005.jpg 1 263 200 97 111
+Test\test_original\006.jpg 1 178 89 269 617
+Test\test_original\007.jpg 1 124 4 332 396
+Test\test_original\008.jpg 1 305 67 413 350
+Test\test_original\009.jpg 1 0 0 63 62
